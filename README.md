@@ -11,3 +11,4 @@ This project describe, how to configuration springboot with thymeleaf and admin 
 - import project to intellij idea
 - download maven dependency
 - after finished, run main class app
+- access localhost:8080/login
